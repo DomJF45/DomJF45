@@ -7,7 +7,7 @@ M.S in Software Engineering | December 2023
 <br>
 
 ### Technologies 💻
-| `React` | `Go` | `Typescript` | `NeoVim` |
+| `React` | `Go` | `Typescript` | `Neovim` |
 | --------- |:-------- |:------- | ------- |
 
 ![Alt Text](https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif)
