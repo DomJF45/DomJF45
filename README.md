@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**DomJF45/DomJF45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Fullstack Developer 🔥
+<br>
+M.S in Software Engineering | December 2023
+<br>
 
-Here are some ideas to get you started:
+### Technologies 💻
+| `React` | `Go` | `Typescript` | `NeoVim` |
+| --------- |:-------- |:------- | ------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Alt Text](https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif)
+
+### Interests
+programming 🤓 // music 🎸 // cooking 🍳 // hiking ⛰️ // excercise 💪
+
+### Portfolio
+[webbydom.works](https://webbydom.works)
