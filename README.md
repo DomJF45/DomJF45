@@ -1,13 +1,7 @@
-### Hi there 👋
+### What's up 👋
 
-### About Me
-Fullstack Developer 🔥
-<br>
-M.S in Software Engineering | December 2023
-<br>
-
-### Technologies 💻
-| `React` | `Go` | `Typescript` | `Neovim` |
+### my fav tech 💻
+| Go | React | Typescript | Neovim |
 | --------- |:-------- |:------- | ------- |
 
 ![Alt Text](https://media.tenor.com/hD56X-Q5AzMAAAAi/gopher-shaking.gif)
