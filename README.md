@@ -1,5 +1,5 @@
 ### What's up 👋
-
+I'm Dom, a fullstack software developer
 ### my fav tech 💻
 | Go | React | Typescript | Neovim |
 | --------- |:-------- |:------- | ------- |
